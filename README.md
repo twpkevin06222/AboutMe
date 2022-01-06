@@ -1,7 +1,7 @@
 # Hi, I'm Wai Po Kevin Teng <img src="https://github.com/twpkevin06222/twpkevin06222/blob/main/img/pacman.gif" width="30px">
 <h3 align="left">AI Researcher with more than 3 years of experience in Machine Learning, specifically in Deep Learning for medical image analyses.</h3>
 
-- 🌱 I’m currently learning **Julia, JavaScript, CSS**
+- 🌱 I’m currently learning **Reinforcement Learning, NLP, Graph Neural Network**
 
 - 💬 Ask me about **Python, Tensorflow**
 
@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Scikit_Learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
