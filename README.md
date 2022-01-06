@@ -1,4 +1,4 @@
-# AboutMe
+# Profile
 <h1 align="center">Hi 👋, I'm Wai Po Kevin Teng</h1>
 <h3 align="center">AI Researcher with more than 3 years of experience in Machine Learning, specifically in Deep Learning for medical image analyses.</h3>
 
