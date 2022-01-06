@@ -7,11 +7,6 @@
 
 - 📫 How to reach me **tengwaipokevin@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/twpkevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wai po kevin Teng" height="30" width="40" /></a>
-</p>
-
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -29,3 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twpkevin06222&show_icons=true&locale=en&theme=dracula" alt="twpkevin06222" /></p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/twpkevin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wai po kevin Teng" height="30" width="40" /></a>
+</p>
