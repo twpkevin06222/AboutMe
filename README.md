@@ -21,9 +21,9 @@
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twpkevin06222&count_private=true&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=3" alt="twpkevin06222" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twpkevin06222&show_icons=true&locale=en&layout=compact&theme=dracula&langs_count=3" alt="twpkevin06222" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twpkevin06222&count_private=true&show_icons=true&locale=en&theme=dracula" alt="twpkevin06222" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twpkevin06222&show_icons=true&locale=en&theme=dracula" alt="twpkevin06222" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
