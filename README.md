@@ -1,4 +1,4 @@
-# Hallo, I'm Kevin <img src="https://github.com/twpkevin06222/twpkevin06222/blob/main/img/pacman.gif" width="5px">
+# Hallo, I'm Kevin <img src="https://github.com/twpkevin06222/twpkevin06222/blob/main/img/pacman.gif" width="2px">
 <h3 align="left">AI Researcher with more than three years of experience in Machine Learning, specifically in Deep Learning for medical image analyses.</h3>
 
 - 🌱 I’m currently learning **Reinforcement Learning, NLP, Graph Neural Network**
